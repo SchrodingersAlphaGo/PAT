@@ -1,10 +1,10 @@
 .vscode/*
-*.exe
 .vs/*
+Debug/*
+*.exe
 *.opensdf
 *.sdf
 *.sln
 *.vcxproj
 *.filters
 *.user
-Debug/*
