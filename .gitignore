@@ -1,1 +1,9 @@
 .vscode/*
+*.exe
+.vs/*
+*.opensdf
+*.sdf
+*.sln
+*.vcxproj
+*.filters
+*.user
